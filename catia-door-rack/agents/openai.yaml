@@ -1,0 +1,4 @@
+interface:
+  display_name: "CATIA Door Transport Rack"
+  short_description: "Build/edit the CATIA V5 door transport rack project."
+  default_prompt: "Rebuild or modify the CATIA door transport rack model, or export its engineering drawing and report."
